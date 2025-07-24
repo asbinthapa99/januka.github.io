@@ -1,8 +1,13 @@
 Januka Agriculture and Animal Farm!
 
-Welcome to the official repository of Januka Agriculture and Animal Farm, a project developed to showcase real-world farming practices, promote sustainable agriculture, and share resources about animal farming in Nepal. This website is a personal initiative and was built from scratch using available online resources and tools.
+Welcome to the official repository of **Januka Agriculture and Animal Farm**, a project developed to showcase real-world farming practices, promote sustainable agriculture, and share resources about animal farming in Nepal.vThis website is a personal initiative and was built from scratch using available online resources and tools.
 
-🔗 Live Website
+
+✨ **Made with ❤️ by skrch**
+
+## 🔗 Live Website
+
+👉 [Visit the Live Website 🌐](https://janukaagricultureandanimalfarm.com.np)
 
 🚜 About the Project
 This project represents a real farm initiative focused on:
