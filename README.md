@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Agriculture](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
+![Agriculture](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VsMGo2cXQwN2theDh2dDhhMWNka3RnYW5pNmxzYXVkZDZqdWhrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41m6WsoUkNVxq8De/giphy.gif)
 
 **Cultivating Excellence in Agriculture & Animal Farming**
 
